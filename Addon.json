@@ -1,0 +1,14 @@
+{
+    "Name":"DM Special Guest Finder",
+    "Version": "v0.0.1",
+    "Includes" : "IC_DMSpecialGuestFinder_Component.ahk",
+    "Author" : "Ismo/Pneumatus",
+    "Url" : "",
+    "Info" : "This AddOn will launch a separate script that will reload an adventure until the selected special guest for DM is found",
+    "Dependencies": [
+        {
+            "Name":"IC Core",
+            "Version":"v0.1.0"
+        }
+    ]
+}
